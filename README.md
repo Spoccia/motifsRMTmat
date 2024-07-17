@@ -14,7 +14,7 @@ Based on these goals, we first define the contextually salient multi-variate mot
 
 Realize a salient multi-variate motif (SMM) algorithm that, unlike existing methods, is able to seek a broad range of patterns in multi-variate time series.
 
-Definition 11 (𝙲𝚂
+Definition (𝙲𝚂
 -𝚖𝚘𝚝𝚒𝚏
 ). Let the set 𝑟𝑒𝑐𝑃𝑎𝑡={𝕊0,…,𝕊𝑘−1}
  be a (𝑘,𝑙,𝜖)
@@ -31,3 +31,4 @@ Note that, depending on how the distance function Δ𝐶
  deals with variate alignment (e.g., whether it enforces that the sub-sequences have the same variate scopes and how it takes into account the contextual information C), we can obtain different types of 𝙲𝚂
 -𝚖𝚘𝚝𝚒𝚏
 s 
+
